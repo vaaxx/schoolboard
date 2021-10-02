@@ -12,7 +12,7 @@
                     foreach ($grades as $grade) { ?>
 
                     <tr>
-                        <td><?php echo htmlspecialchars($grade, ENT_QUOTES, 'UTF-8'); ?></td>
+                        <td class="student-grades"><?php echo htmlspecialchars($grade, ENT_QUOTES, 'UTF-8'); ?></td>
                     </tr>
 
                 <?php } ?>

@@ -3,7 +3,7 @@
     "type": "project",
     "description": "An extremely simple school board",
     "keywords": ["schoolboard", "school", "board"],
-    "homepage": "https://github.com/panique/mini",
+    "homepage": "https://github.com/vaaxx/schoolboard",
     "license": "MIT",
     "authors": [
         {
@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/panique/mini/issues",
-        "source": "https://github.com/panique/mini"
+        "issues": "https://github.com/vaaxx/schoolboard/issues",
+        "source": "https://github.com/vaaxx/schoolboard"
     },
     "require": {
         "php": ">=5.3.0"

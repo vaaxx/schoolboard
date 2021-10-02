@@ -47,10 +47,15 @@ body {
 .container table thead td {
     background-color: #c5c5c5;
     padding: 4px 10px;
+    text-align: center;
 }
 .container table tbody td {
     padding: 4px 10px;
     text-align: center;
+}
+.student-grades
+{
+    border-bottom: 1px solid black;
 }
 .container .box {
     border-top: 1px solid #ddd;
